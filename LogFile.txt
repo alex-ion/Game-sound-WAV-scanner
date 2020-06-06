@@ -1,0 +1,548 @@
+Fri Nov 22 08:15:11 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 0 foldere
+Fri Nov 22 08:15:11 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 756 fisiere
+Fri Nov 22 08:15:21 2019: S-a dezarhivat AMAZING-RASTA.zip
+Fri Nov 22 08:15:26 2019: S-a identificat AMAZING-RASTA.wav
+Fri Nov 22 08:15:26 2019: S-a identificat AMAZING-SPANISH.wav
+Fri Nov 22 08:15:26 2019: S-a identificat AMAZING-THE RAJ.wav
+Fri Nov 22 08:15:26 2019: S-a identificat AMAZING-WHOOPSIE.wav
+Fri Nov 22 08:15:26 2019: S-a identificat BORING-AMERICAN.wav
+Fri Nov 22 08:15:26 2019: S-a identificat BORING-ANGRY SCOTS.wav
+Fri Nov 22 08:15:26 2019: S-a identificat BORING-BRUMMIE.wav
+Fri Nov 22 08:15:26 2019: S-a identificat BORING-CAD.wav
+Fri Nov 22 08:15:26 2019: S-a identificat BORING-ENGLISH.wav
+Fri Nov 22 08:15:26 2019: S-a identificat BORING-FRENCH.wav
+Fri Nov 22 08:16:22 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 0 foldere
+Fri Nov 22 08:16:22 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 756 fisiere
+Fri Nov 22 08:16:32 2019: S-a dezarhivat AMAZING-RASTA.zip
+Fri Nov 22 08:16:37 2019: S-a identificat AMAZING-RASTA.wav
+Fri Nov 22 08:16:37 2019: S-a identificat AMAZING-SPANISH.wav
+Fri Nov 22 08:16:37 2019: S-a identificat AMAZING-THE RAJ.wav
+Fri Nov 22 08:16:37 2019: S-a identificat AMAZING-WHOOPSIE.wav
+Fri Nov 22 08:16:37 2019: S-a identificat BORING-AMERICAN.wav
+Fri Nov 22 08:16:37 2019: S-a identificat BORING-ANGRY SCOTS.wav
+Fri Nov 22 08:16:37 2019: S-a identificat BORING-BRUMMIE.wav
+Fri Nov 22 08:16:37 2019: S-a identificat BORING-CAD.wav
+Fri Nov 22 08:16:37 2019: S-a identificat BORING-ENGLISH.wav
+Fri Nov 22 08:16:37 2019: S-a identificat BORING-FRENCH.wav
+Fri Nov 22 08:16:42 2019S-a mutat fisierul AMAZING-RASTA.wav
+Fri Nov 22 08:16:42 2019S-a mutat fisierul AMAZING-THE RAJ.wav
+Fri Nov 22 08:16:42 2019S-a mutat fisierul BORING-AMERICAN.wav
+Fri Nov 22 08:16:42 2019S-a mutat fisierul BORING-BRUMMIE.wav
+Fri Nov 22 08:16:42 2019S-a mutat fisierul BORING-ENGLISH.wav
+Fri Nov 22 08:16:42 2019: S-a identificat AMAZING-SPANISH.wav
+Fri Nov 22 08:16:42 2019: S-a identificat AMAZING-WHOOPSIE.wav
+Fri Nov 22 08:16:42 2019: S-a identificat BORING-ANGRY SCOTS.wav
+Fri Nov 22 08:16:42 2019: S-a identificat BORING-CAD.wav
+Fri Nov 22 08:16:42 2019: S-a identificat BORING-FRENCH.wav
+Fri Nov 22 08:16:47 2019S-a mutat fisierul AMAZING-SPANISH.wav
+Fri Nov 22 08:16:47 2019S-a mutat fisierul BORING-ANGRY SCOTS.wav
+Fri Nov 22 08:16:47 2019S-a mutat fisierul BORING-FRENCH.wav
+Fri Nov 22 08:16:47 2019S-a mutat fisierul AMAZING-WHOOPSIE.wav
+Fri Nov 22 08:16:47 2019S-a mutat fisierul BORING-CAD.wav
+Fri Nov 22 08:19:22 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 0 foldere
+Fri Nov 22 08:19:22 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 746 fisiere
+Fri Nov 22 08:19:22 2019: S-a dezarhivat AMAZING-BRUMMIE.zip
+Fri Nov 22 08:19:27 2019: S-a identificat AMAZING-AMERICAN.wav
+Fri Nov 22 08:19:27 2019: S-a identificat AMAZING-ANGRY SCOTS.wav
+Fri Nov 22 08:19:27 2019: S-a identificat AMAZING-BRUMMIE.wav
+Fri Nov 22 08:19:27 2019: S-a identificat AMAZING-CAD.wav
+Fri Nov 22 08:19:27 2019: S-a identificat AMAZING-ENGLISH.wav
+Fri Nov 22 08:19:27 2019: S-a identificat AMAZING-FRENCH.wav
+Fri Nov 22 08:19:27 2019: S-a identificat AMAZING-GERMAN.wav
+Fri Nov 22 08:19:27 2019: S-a identificat AMAZING-HUNGARIAN.wav
+Fri Nov 22 08:19:27 2019: S-a identificat AMAZING-ITALIAN.wav
+Fri Nov 22 08:19:27 2019: S-a identificat AMAZING-PORTUGUESE.wav
+Fri Nov 22 08:19:41 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 0 foldere
+Fri Nov 22 08:19:41 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 746 fisiere
+Fri Nov 22 08:19:41 2019: S-a identificat AMAZING-AMERICAN.wav
+Fri Nov 22 08:19:41 2019: S-a identificat AMAZING-ANGRY SCOTS.wav
+Fri Nov 22 08:19:41 2019: S-a identificat AMAZING-BRUMMIE.wav
+Fri Nov 22 08:19:41 2019: S-a identificat AMAZING-CAD.wav
+Fri Nov 22 08:19:41 2019: S-a identificat AMAZING-ENGLISH.wav
+Fri Nov 22 08:19:41 2019: S-a identificat AMAZING-FRENCH.wav
+Fri Nov 22 08:19:41 2019: S-a identificat AMAZING-GERMAN.wav
+Fri Nov 22 08:19:41 2019: S-a identificat AMAZING-HUNGARIAN.wav
+Fri Nov 22 08:19:41 2019: S-a identificat AMAZING-ITALIAN.wav
+Fri Nov 22 08:19:41 2019: S-a identificat AMAZING-PORTUGUESE.wav
+Fri Nov 22 08:19:46 2019S-a mutat fisierul AMAZING-AMERICAN.wav
+Fri Nov 22 08:19:46 2019S-a mutat fisierul AMAZING-BRUMMIE.wav
+Fri Nov 22 08:19:46 2019S-a mutat fisierul AMAZING-ENGLISH.wav
+Fri Nov 22 08:19:46 2019S-a mutat fisierul AMAZING-GERMAN.wav
+Fri Nov 22 08:19:46 2019S-a mutat fisierul AMAZING-ITALIAN.wav
+Fri Nov 22 08:19:46 2019: S-a identificat AMAZING-ANGRY SCOTS.wav
+Fri Nov 22 08:19:46 2019: S-a identificat AMAZING-CAD.wav
+Fri Nov 22 08:19:46 2019: S-a identificat AMAZING-FRENCH.wav
+Fri Nov 22 08:19:46 2019: S-a identificat AMAZING-HUNGARIAN.wav
+Fri Nov 22 08:19:46 2019: S-a identificat AMAZING-PORTUGUESE.wav
+Fri Nov 22 08:19:51 2019S-a mutat fisierul AMAZING-ANGRY SCOTS.wav
+Fri Nov 22 08:19:51 2019S-a mutat fisierul AMAZING-FRENCH.wav
+Fri Nov 22 08:19:51 2019S-a mutat fisierul AMAZING-PORTUGUESE.wav
+Fri Nov 22 08:19:52 2019S-a mutat fisierul AMAZING-CAD.wav
+Fri Nov 22 08:19:52 2019S-a mutat fisierul AMAZING-HUNGARIAN.wav
+Fri Nov 22 08:20:54 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 0 foldere
+Fri Nov 22 08:20:54 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 736 fisiere
+Fri Nov 22 08:21:05 2019: S-a dezarhivat BORING-PORTUGUESE.zip
+Fri Nov 22 08:21:10 2019: S-a identificat BORING-GERMAN.wav
+Fri Nov 22 08:21:10 2019: S-a identificat BORING-HUNGARIAN.wav
+Fri Nov 22 08:21:10 2019: S-a identificat BORING-ITALIAN.wav
+Fri Nov 22 08:21:10 2019: S-a identificat BORING-PORTUGUESE.wav
+Fri Nov 22 08:21:10 2019: S-a identificat BORING-RASTA.wav
+Fri Nov 22 08:21:10 2019: S-a identificat BORING-SPANISH.wav
+Fri Nov 22 08:21:10 2019: S-a identificat BORING-THE RAJ.wav
+Fri Nov 22 08:21:10 2019: S-a identificat BORING-WHOOPSIE.wav
+Fri Nov 22 08:21:10 2019: S-a identificat BRILLIANT-AMERICAN.wav
+Fri Nov 22 08:21:10 2019: S-a identificat BRILLIANT-ANGRY SCOTS.wav
+Fri Nov 22 08:21:15 2019: S-a mutat fisierul BORING-GERMAN.wav
+Fri Nov 22 08:21:15 2019: S-a mutat fisierul BORING-HUNGARIAN.wav
+Fri Nov 22 08:21:15 2019: S-a mutat fisierul BORING-ITALIAN.wav
+Fri Nov 22 08:21:15 2019: S-a mutat fisierul BORING-PORTUGUESE.wav
+Fri Nov 22 08:21:15 2019: S-a mutat fisierul BORING-RASTA.wav
+Fri Nov 22 08:21:15 2019: S-a mutat fisierul BORING-SPANISH.wav
+Fri Nov 22 08:21:15 2019: S-a mutat fisierul BORING-THE RAJ.wav
+Fri Nov 22 08:21:15 2019: S-a mutat fisierul BORING-WHOOPSIE.wav
+Fri Nov 22 08:21:15 2019: S-a mutat fisierul BRILLIANT-AMERICAN.wav
+Fri Nov 22 08:21:15 2019: S-a mutat fisierul BRILLIANT-ANGRY SCOTS.wav
+Fri Nov 22 08:22:20 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 0 foldere
+Fri Nov 22 08:22:20 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 726 fisiere
+Fri Nov 22 08:22:56 2019: S-a dezarhivat BRILLIANT-GERMAN.zip
+Fri Nov 22 08:22:59 2019: S-a identificat BRILLIANT-BRUMMIE.wav
+Fri Nov 22 08:22:59 2019: S-a identificat BRILLIANT-CAD.wav
+Fri Nov 22 08:22:59 2019: S-a identificat BRILLIANT-ENGLISH.wav
+Fri Nov 22 08:22:59 2019: S-a identificat BRILLIANT-FRENCH.wav
+Fri Nov 22 08:22:59 2019: S-a identificat BRILLIANT-GERMAN.wav
+Fri Nov 22 08:22:59 2019: S-a identificat BRILLIANT-HUNGARIAN.wav
+Fri Nov 22 08:22:59 2019: S-a identificat BRILLIANT-ITALIAN.wav
+Fri Nov 22 08:22:59 2019: S-a identificat BRILLIANT-PORTUGUESE.wav
+Fri Nov 22 08:22:59 2019: S-a identificat BRILLIANT-RASTA.wav
+Fri Nov 22 08:22:59 2019: S-a identificat BRILLIANT-SPANISH.wav
+Fri Nov 22 08:23:02 2019: S-a mutat fisierul BRILLIANT-BRUMMIE.wav
+Fri Nov 22 08:23:02 2019: S-a mutat fisierul BRILLIANT-CAD.wav
+Fri Nov 22 08:23:02 2019: S-a mutat fisierul BRILLIANT-ENGLISH.wav
+Fri Nov 22 08:23:02 2019: S-a mutat fisierul BRILLIANT-FRENCH.wav
+Fri Nov 22 08:23:02 2019: S-a mutat fisierul BRILLIANT-GERMAN.wav
+Fri Nov 22 08:23:02 2019: S-a mutat fisierul BRILLIANT-HUNGARIAN.wav
+Fri Nov 22 08:23:02 2019: S-a mutat fisierul BRILLIANT-ITALIAN.wav
+Fri Nov 22 08:23:02 2019: S-a mutat fisierul BRILLIANT-PORTUGUESE.wav
+Fri Nov 22 08:23:02 2019: S-a mutat fisierul BRILLIANT-RASTA.wav
+Fri Nov 22 08:23:02 2019: S-a mutat fisierul BRILLIANT-SPANISH.wav
+Fri Nov 22 08:23:36 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 0 foldere
+Fri Nov 22 08:23:36 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 716 fisiere
+Fri Nov 22 08:24:02 2019: S-a dezarhivat BUNGEE-AMERICAN.zip
+Fri Nov 22 08:24:03 2019: S-a identificat BRILLIANT-THE RAJ.wav
+Fri Nov 22 08:24:03 2019: S-a identificat BRILLIANT-WHOOPSIE.wav
+Fri Nov 22 08:24:03 2019: S-a identificat BUNGEE-AMERICAN.wav
+Fri Nov 22 08:24:03 2019: S-a identificat BUNGEE-ANGRY SCOTS.wav
+Fri Nov 22 08:24:03 2019: S-a identificat BUNGEE-BRUMMIE.wav
+Fri Nov 22 08:24:03 2019: S-a identificat BUNGEE-CAD.wav
+Fri Nov 22 08:24:03 2019: S-a identificat BUNGEE-ENGLISH.wav
+Fri Nov 22 08:24:03 2019: S-a identificat BUNGEE-FRENCH.wav
+Fri Nov 22 08:24:03 2019: S-a identificat BUNGEE-GERMAN.wav
+Fri Nov 22 08:24:03 2019: S-a identificat BUNGEE-HUNGARIAN.wav
+Fri Nov 22 08:24:04 2019: S-a mutat fisierul BRILLIANT-THE RAJ.wav
+Fri Nov 22 08:24:04 2019: S-a mutat fisierul BRILLIANT-WHOOPSIE.wav
+Fri Nov 22 08:24:04 2019: S-a mutat fisierul BUNGEE-AMERICAN.wav
+Fri Nov 22 08:24:04 2019: S-a mutat fisierul BUNGEE-ANGRY SCOTS.wav
+Fri Nov 22 08:24:04 2019: S-a mutat fisierul BUNGEE-BRUMMIE.wav
+Fri Nov 22 08:24:04 2019: S-a mutat fisierul BUNGEE-CAD.wav
+Fri Nov 22 08:24:04 2019: S-a mutat fisierul BUNGEE-ENGLISH.wav
+Fri Nov 22 08:24:04 2019: S-a mutat fisierul BUNGEE-FRENCH.wav
+Fri Nov 22 08:24:04 2019: S-a mutat fisierul BUNGEE-GERMAN.wav
+Fri Nov 22 08:24:04 2019: S-a mutat fisierul BUNGEE-HUNGARIAN.wav
+Fri Nov 22 08:24:56 2019: S-a dezarhivat BUNGEE-RASTA.zip
+Fri Nov 22 08:24:57 2019: S-a identificat BUNGEE-ITALIAN.wav
+Fri Nov 22 08:24:57 2019: S-a identificat BUNGEE-PORTUGUESE.wav
+Fri Nov 22 08:24:57 2019: S-a identificat BUNGEE-RASTA.wav
+Fri Nov 22 08:24:57 2019: S-a identificat BUNGEE-SPANISH.wav
+Fri Nov 22 08:24:57 2019: S-a identificat BUNGEE-THE RAJ.wav
+Fri Nov 22 08:24:57 2019: S-a identificat BUNGEE-WHOOPSIE.wav
+Fri Nov 22 08:24:57 2019: S-a identificat BYEBYE-AMERICAN.wav
+Fri Nov 22 08:24:57 2019: S-a identificat BYEBYE-ANGRY SCOTS.wav
+Fri Nov 22 08:24:57 2019: S-a identificat BYEBYE-BRUMMIE.wav
+Fri Nov 22 08:24:57 2019: S-a identificat BYEBYE-CAD.wav
+Fri Nov 22 08:24:58 2019: S-a mutat fisierul BUNGEE-ITALIAN.wav
+Fri Nov 22 08:24:58 2019: S-a mutat fisierul BUNGEE-PORTUGUESE.wav
+Fri Nov 22 08:24:58 2019: S-a mutat fisierul BUNGEE-RASTA.wav
+Fri Nov 22 08:24:58 2019: S-a mutat fisierul BUNGEE-SPANISH.wav
+Fri Nov 22 08:24:58 2019: S-a mutat fisierul BUNGEE-THE RAJ.wav
+Fri Nov 22 08:24:58 2019: S-a mutat fisierul BUNGEE-WHOOPSIE.wav
+Fri Nov 22 08:24:58 2019: S-a mutat fisierul BYEBYE-AMERICAN.wav
+Fri Nov 22 08:24:58 2019: S-a mutat fisierul BYEBYE-ANGRY SCOTS.wav
+Fri Nov 22 08:24:58 2019: S-a mutat fisierul BYEBYE-BRUMMIE.wav
+Fri Nov 22 08:24:58 2019: S-a mutat fisierul BYEBYE-CAD.wav
+Fri Nov 22 08:25:28 2019: S-a dezarhivat BYEBYE-SPANISH.zip
+Fri Nov 22 08:25:29 2019: S-a identificat BYEBYE-ENGLISH.wav
+Fri Nov 22 08:25:29 2019: S-a identificat BYEBYE-FRENCH.wav
+Fri Nov 22 08:25:29 2019: S-a identificat BYEBYE-GERMAN.wav
+Fri Nov 22 08:25:29 2019: S-a identificat BYEBYE-HUNGARIAN.wav
+Fri Nov 22 08:25:29 2019: S-a identificat BYEBYE-ITALIAN.wav
+Fri Nov 22 08:25:29 2019: S-a identificat BYEBYE-PORTUGUESE.wav
+Fri Nov 22 08:25:29 2019: S-a identificat BYEBYE-RASTA.wav
+Fri Nov 22 08:25:29 2019: S-a identificat BYEBYE-SPANISH.wav
+Fri Nov 22 08:25:29 2019: S-a identificat BYEBYE-THE RAJ.wav
+Fri Nov 22 08:25:29 2019: S-a identificat BYEBYE-WHOOPSIE.wav
+Fri Nov 22 08:25:30 2019: S-a mutat fisierul BYEBYE-ENGLISH.wav
+Fri Nov 22 08:25:30 2019: S-a mutat fisierul BYEBYE-FRENCH.wav
+Fri Nov 22 08:25:30 2019: S-a mutat fisierul BYEBYE-GERMAN.wav
+Fri Nov 22 08:25:30 2019: S-a mutat fisierul BYEBYE-HUNGARIAN.wav
+Fri Nov 22 08:25:30 2019: S-a mutat fisierul BYEBYE-ITALIAN.wav
+Fri Nov 22 08:25:30 2019: S-a mutat fisierul BYEBYE-PORTUGUESE.wav
+Fri Nov 22 08:25:30 2019: S-a mutat fisierul BYEBYE-RASTA.wav
+Fri Nov 22 08:25:30 2019: S-a mutat fisierul BYEBYE-SPANISH.wav
+Fri Nov 22 08:25:30 2019: S-a mutat fisierul BYEBYE-THE RAJ.wav
+Fri Nov 22 08:25:30 2019: S-a mutat fisierul BYEBYE-WHOOPSIE.wav
+Fri Nov 22 08:25:47 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 0 foldere
+Fri Nov 22 08:25:47 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 686 fisiere
+Fri Nov 22 08:27:00 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 0 foldere
+Fri Nov 22 08:27:00 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 686 fisiere
+Fri Nov 22 08:27:00 2019: S-a dezarhivat COMEONTHEN-FRENCH.zip
+Fri Nov 22 08:27:00 2019: S-a identificat COLLECT-ENGLISH.wav
+Fri Nov 22 08:27:00 2019: S-a identificat COLLECT-RASTA.wav
+Fri Nov 22 08:27:00 2019: S-a identificat COLLECT-SPANISH.wav
+Fri Nov 22 08:27:00 2019: S-a identificat COLLECT-THE RAJ.wav
+Fri Nov 22 08:27:00 2019: S-a identificat COMEONTHEN-AMERICAN.wav
+Fri Nov 22 08:27:00 2019: S-a identificat COMEONTHEN-ANGRY SCOTS.wav
+Fri Nov 22 08:27:00 2019: S-a identificat COMEONTHEN-BRUMMIE.wav
+Fri Nov 22 08:27:00 2019: S-a identificat COMEONTHEN-CAD.wav
+Fri Nov 22 08:27:00 2019: S-a identificat COMEONTHEN-ENGLISH.wav
+Fri Nov 22 08:27:00 2019: S-a identificat COMEONTHEN-FRENCH.wav
+Fri Nov 22 08:27:00 2019: S-a mutat fisierul COLLECT-ENGLISH.wav
+Fri Nov 22 08:27:00 2019: S-a mutat fisierul COLLECT-RASTA.wav
+Fri Nov 22 08:27:00 2019: S-a mutat fisierul COLLECT-SPANISH.wav
+Fri Nov 22 08:27:00 2019: S-a mutat fisierul COLLECT-THE RAJ.wav
+Fri Nov 22 08:27:00 2019: S-a mutat fisierul COMEONTHEN-AMERICAN.wav
+Fri Nov 22 08:27:00 2019: S-a mutat fisierul COMEONTHEN-ANGRY SCOTS.wav
+Fri Nov 22 08:27:00 2019: S-a mutat fisierul COMEONTHEN-BRUMMIE.wav
+Fri Nov 22 08:27:00 2019: S-a mutat fisierul COMEONTHEN-CAD.wav
+Fri Nov 22 08:27:00 2019: S-a mutat fisierul COMEONTHEN-ENGLISH.wav
+Fri Nov 22 08:27:00 2019: S-a mutat fisierul COMEONTHEN-FRENCH.wav
+Fri Nov 22 08:30:15 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 0 foldere
+Fri Nov 22 08:30:15 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 676 fisiere
+Fri Nov 22 08:30:15 2019: S-a dezarhivat COMEONTHEN-WHOOPSIE.zip
+Fri Nov 22 08:30:15 2019: S-a identificat COMEONTHEN-HUNGARIAN.wav
+Fri Nov 22 08:30:15 2019: S-a identificat COMEONTHEN-ITALIAN.wav
+Fri Nov 22 08:30:15 2019: S-a identificat COMEONTHEN-PORTUGUESE.wav
+Fri Nov 22 08:30:15 2019: S-a identificat COMEONTHEN-RASTA.wav
+Fri Nov 22 08:30:15 2019: S-a identificat COMEONTHEN-SPANISH.wav
+Fri Nov 22 08:30:15 2019: S-a identificat COMEONTHEN-THE RAJ.wav
+Fri Nov 22 08:30:15 2019: S-a identificat COMEONTHEN-WHOOPSIE.wav
+Fri Nov 22 08:30:15 2019: S-a identificat COUGH1.wav
+Fri Nov 22 08:30:15 2019: S-a identificat COUGH2.wav
+Fri Nov 22 08:30:15 2019: S-a identificat COUGH3.wav
+Fri Nov 22 08:30:15 2019: S-a mutat fisierul COMEONTHEN-HUNGARIAN.wav
+Fri Nov 22 08:30:15 2019: S-a mutat fisierul COMEONTHEN-ITALIAN.wav
+Fri Nov 22 08:30:15 2019: S-a mutat fisierul COMEONTHEN-PORTUGUESE.wav
+Fri Nov 22 08:30:15 2019: S-a mutat fisierul COMEONTHEN-RASTA.wav
+Fri Nov 22 08:30:15 2019: S-a mutat fisierul COMEONTHEN-SPANISH.wav
+Fri Nov 22 08:30:15 2019: S-a mutat fisierul COMEONTHEN-THE RAJ.wav
+Fri Nov 22 08:30:15 2019: S-a mutat fisierul COMEONTHEN-WHOOPSIE.wav
+Fri Nov 22 08:30:15 2019: S-a mutat fisierul COUGH1.wav
+Fri Nov 22 08:30:15 2019: S-a mutat fisierul COUGH2.wav
+Fri Nov 22 08:30:15 2019: S-a mutat fisierul COUGH3.wav
+Fri Nov 22 08:35:34 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 0 foldere
+Fri Nov 22 08:35:34 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 666 fisiere
+Fri Nov 22 08:35:34 2019: S-a dezarhivat DROP-ANGRY SCOTS.zip
+Fri Nov 22 08:35:34 2019: S-a identificat DRAGONPUNCH-THE RAJ.wav
+Fri Nov 22 08:35:34 2019: S-a identificat DRAGONPUNCH-WHOOPSIE.wav
+Fri Nov 22 08:35:34 2019: S-a identificat DROP-AMERICAN.wav
+Fri Nov 22 08:35:34 2019: S-a identificat DROP-ANGRY SCOTS.wav
+Fri Nov 22 08:35:34 2019: S-a identificat DROP-BRUMMIE.wav
+Fri Nov 22 08:35:34 2019: S-a identificat DROP-CAD.wav
+Fri Nov 22 08:35:34 2019: S-a identificat DROP-ENGLISH.wav
+Fri Nov 22 08:35:34 2019: S-a identificat DROP-FRENCH.wav
+Fri Nov 22 08:35:34 2019: S-a identificat DROP-GERMAN.wav
+Fri Nov 22 08:35:34 2019: S-a identificat DROP-HUNGARIAN.wav
+Fri Nov 22 08:35:34 2019: S-a mutat fisierul DRAGONPUNCH-THE RAJ.wav
+Fri Nov 22 08:35:34 2019: S-a mutat fisierul DRAGONPUNCH-WHOOPSIE.wav
+Fri Nov 22 08:35:34 2019: S-a mutat fisierul DROP-AMERICAN.wav
+Fri Nov 22 08:35:34 2019: S-a mutat fisierul DROP-ANGRY SCOTS.wav
+Fri Nov 22 08:35:34 2019: S-a mutat fisierul DROP-BRUMMIE.wav
+Fri Nov 22 08:35:34 2019: S-a mutat fisierul DROP-CAD.wav
+Fri Nov 22 08:35:34 2019: S-a mutat fisierul DROP-ENGLISH.wav
+Fri Nov 22 08:35:34 2019: S-a mutat fisierul DROP-FRENCH.wav
+Fri Nov 22 08:35:34 2019: S-a mutat fisierul DROP-GERMAN.wav
+Fri Nov 22 08:35:34 2019: S-a mutat fisierul DROP-HUNGARIAN.wav
+Fri Nov 22 08:38:41 2019: S-a dezarhivat DROP-WHOOPSIE.zip
+Fri Nov 22 08:38:41 2019: S-a identificat DROP-ITALIAN.wav
+Fri Nov 22 08:38:41 2019: S-a identificat DROP-PORTUGUESE.wav
+Fri Nov 22 08:38:41 2019: S-a identificat DROP-RASTA.wav
+Fri Nov 22 08:38:41 2019: S-a identificat DROP-SPANISH.wav
+Fri Nov 22 08:38:41 2019: S-a identificat DROP-THE RAJ.wav
+Fri Nov 22 08:38:41 2019: S-a identificat DROP-WHOOPSIE.wav
+Fri Nov 22 08:38:41 2019: A aparut eroarea: File is not a zip file
+Fri Nov 22 08:38:41 2019: S-a identificat EXCELLENT-AMERICAN.wav
+Fri Nov 22 08:38:41 2019: S-a identificat EXCELLENT-ANGRY SCOTS.wav
+Fri Nov 22 08:38:41 2019: S-a identificat EXCELLENT-BRUMMIE.wav
+Fri Nov 22 08:38:41 2019: S-a identificat EXCELLENT-CAD.wav
+Fri Nov 22 08:38:41 2019: S-a mutat fisierul DROP-ITALIAN.wav
+Fri Nov 22 08:38:41 2019: S-a mutat fisierul DROP-PORTUGUESE.wav
+Fri Nov 22 08:38:41 2019: S-a mutat fisierul DROP-RASTA.wav
+Fri Nov 22 08:38:41 2019: S-a mutat fisierul DROP-SPANISH.wav
+Fri Nov 22 08:38:41 2019: S-a mutat fisierul DROP-THE RAJ.wav
+Fri Nov 22 08:38:41 2019: S-a mutat fisierul DROP-WHOOPSIE.wav
+Fri Nov 22 08:38:41 2019: S-a mutat fisierul EXCELLENT-AMERICAN.wav
+Fri Nov 22 08:38:41 2019: S-a mutat fisierul EXCELLENT-ANGRY SCOTS.wav
+Fri Nov 22 08:38:42 2019: S-a mutat fisierul EXCELLENT-BRUMMIE.wav
+Fri Nov 22 08:38:42 2019: S-a mutat fisierul EXCELLENT-CAD.wav
+Fri Nov 22 08:40:58 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 0 foldere
+Fri Nov 22 08:40:58 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 646 fisiere
+Fri Nov 22 08:40:58 2019: S-a dezarhivat DROP-WHOOPSIE.zip
+Fri Nov 22 08:40:58 2019: S-a identificat DROP-ITALIAN.wav
+Fri Nov 22 08:40:58 2019: S-a identificat DROP-PORTUGUESE.wav
+Fri Nov 22 08:40:58 2019: S-a identificat DROP-RASTA.wav
+Fri Nov 22 08:40:58 2019: S-a identificat DROP-SPANISH.wav
+Fri Nov 22 08:40:58 2019: S-a identificat DROP-THE RAJ.wav
+Fri Nov 22 08:40:58 2019: S-a identificat DROP-WHOOPSIE.wav
+Fri Nov 22 08:40:58 2019: S-a identificat EXCELLENT-AMERICAN.wav
+Fri Nov 22 08:40:58 2019: S-a identificat EXCELLENT-ANGRY SCOTS.wav
+Fri Nov 22 08:40:58 2019: S-a identificat EXCELLENT-BRUMMIE.wav
+Fri Nov 22 08:40:58 2019: S-a identificat EXCELLENT-CAD.wav
+Fri Nov 22 08:42:30 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 0 foldere
+Fri Nov 22 08:42:30 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 646 fisiere
+Fri Nov 22 08:42:30 2019: S-a identificat DROP-PORTUGUESE.wav
+Fri Nov 22 08:42:30 2019: S-a identificat DROP-RASTA.wav
+Fri Nov 22 08:42:30 2019: S-a identificat DROP-SPANISH.wav
+Fri Nov 22 08:42:30 2019: S-a identificat DROP-THE RAJ.wav
+Fri Nov 22 08:42:30 2019: S-a identificat DROP-WHOOPSIE.wav
+Fri Nov 22 08:42:30 2019: S-a identificat EXCELLENT-AMERICAN.wav
+Fri Nov 22 08:42:30 2019: S-a identificat EXCELLENT-ANGRY SCOTS.wav
+Fri Nov 22 08:42:30 2019: S-a identificat EXCELLENT-BRUMMIE.wav
+Fri Nov 22 08:42:30 2019: S-a identificat EXCELLENT-CAD.wav
+Fri Nov 22 08:42:30 2019: S-a dezarhivat EXCELLENT-HUNGARIAN.zip
+Fri Nov 22 08:42:37 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 0 foldere
+Fri Nov 22 08:42:37 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 646 fisiere
+Fri Nov 22 08:42:37 2019: S-a identificat DROP-RASTA.wav
+Fri Nov 22 08:42:37 2019: S-a identificat DROP-SPANISH.wav
+Fri Nov 22 08:42:37 2019: S-a identificat DROP-THE RAJ.wav
+Fri Nov 22 08:42:37 2019: S-a identificat DROP-WHOOPSIE.wav
+Fri Nov 22 08:42:37 2019: S-a identificat EXCELLENT-AMERICAN.wav
+Fri Nov 22 08:42:37 2019: S-a identificat EXCELLENT-ANGRY SCOTS.wav
+Fri Nov 22 08:42:37 2019: S-a identificat EXCELLENT-BRUMMIE.wav
+Fri Nov 22 08:42:37 2019: S-a identificat EXCELLENT-CAD.wav
+Fri Nov 22 08:42:37 2019: S-a identificat EXCELLENT-ENGLISH.wav
+Fri Nov 22 08:42:37 2019: S-a identificat EXCELLENT-FRENCH.wav
+Fri Nov 22 08:42:37 2019: S-a identificat EXCELLENT-GERMAN.wav
+Fri Nov 22 08:42:37 2019: S-a identificat EXCELLENT-HUNGARIAN.wav
+Fri Nov 22 08:42:37 2019: S-a identificat EXCELLENT-ITALIAN.wav
+Fri Nov 22 08:42:37 2019: S-a identificat EXCELLENT-PORTUGUESE.wav
+Fri Nov 22 08:42:37 2019: S-a identificat EXCELLENT-RASTA.wav
+Fri Nov 22 08:42:37 2019: S-a identificat EXCELLENT-SPANISH.wav
+Fri Nov 22 08:42:37 2019: S-a identificat EXCELLENT-THE RAJ.wav
+Fri Nov 22 08:42:37 2019: S-a identificat EXCELLENT-WHOOPSIE.wav
+Fri Nov 22 08:42:47 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 0 foldere
+Fri Nov 22 08:42:47 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 646 fisiere
+Fri Nov 22 08:42:47 2019: S-a identificat DROP-SPANISH.wav
+Fri Nov 22 08:42:47 2019: S-a identificat DROP-THE RAJ.wav
+Fri Nov 22 08:42:48 2019: S-a identificat DROP-WHOOPSIE.wav
+Fri Nov 22 08:42:48 2019: S-a identificat EXCELLENT-AMERICAN.wav
+Fri Nov 22 08:42:48 2019: S-a identificat EXCELLENT-ANGRY SCOTS.wav
+Fri Nov 22 08:42:48 2019: S-a identificat EXCELLENT-BRUMMIE.wav
+Fri Nov 22 08:42:48 2019: S-a identificat EXCELLENT-CAD.wav
+Fri Nov 22 08:42:48 2019: S-a identificat EXCELLENT-ENGLISH.wav
+Fri Nov 22 08:42:48 2019: S-a identificat EXCELLENT-FRENCH.wav
+Fri Nov 22 08:42:48 2019: S-a identificat EXCELLENT-GERMAN.wav
+Fri Nov 22 08:42:48 2019: S-a identificat EXCELLENT-HUNGARIAN.wav
+Fri Nov 22 08:42:48 2019: S-a identificat EXCELLENT-ITALIAN.wav
+Fri Nov 22 08:42:48 2019: S-a identificat EXCELLENT-PORTUGUESE.wav
+Fri Nov 22 08:42:48 2019: S-a identificat EXCELLENT-RASTA.wav
+Fri Nov 22 08:42:48 2019: S-a identificat EXCELLENT-SPANISH.wav
+Fri Nov 22 08:42:48 2019: S-a identificat EXCELLENT-THE RAJ.wav
+Fri Nov 22 08:42:48 2019: S-a identificat EXCELLENT-WHOOPSIE.wav
+Fri Nov 22 08:48:23 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 0 foldere
+Fri Nov 22 08:48:23 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 646 fisiere
+Fri Nov 22 08:48:23 2019: S-a identificat DROP-THE RAJ.wav
+Fri Nov 22 08:48:23 2019: S-a identificat DROP-WHOOPSIE.wav
+Fri Nov 22 08:48:23 2019: S-a identificat EXCELLENT-AMERICAN.wav
+Fri Nov 22 08:48:23 2019: S-a identificat EXCELLENT-ANGRY SCOTS.wav
+Fri Nov 22 08:48:23 2019: S-a identificat EXCELLENT-BRUMMIE.wav
+Fri Nov 22 08:48:23 2019: S-a identificat EXCELLENT-CAD.wav
+Fri Nov 22 08:48:23 2019: S-a identificat EXCELLENT-ENGLISH.wav
+Fri Nov 22 08:48:23 2019: S-a identificat EXCELLENT-FRENCH.wav
+Fri Nov 22 08:48:23 2019: S-a identificat EXCELLENT-GERMAN.wav
+Fri Nov 22 08:48:23 2019: S-a identificat EXCELLENT-HUNGARIAN.wav
+Fri Nov 22 08:48:23 2019: S-a dezarhivat EXCELLENT-HUNGARIAN.zip
+Fri Nov 22 08:48:23 2019: S-a identificat EXCELLENT-ITALIAN.wav
+Fri Nov 22 08:48:23 2019: S-a identificat EXCELLENT-PORTUGUESE.wav
+Fri Nov 22 08:48:23 2019: S-a identificat EXCELLENT-RASTA.wav
+Fri Nov 22 08:48:23 2019: S-a identificat EXCELLENT-SPANISH.wav
+Fri Nov 22 08:48:23 2019: S-a identificat EXCELLENT-THE RAJ.wav
+Fri Nov 22 08:48:23 2019: S-a identificat EXCELLENT-WHOOPSIE.wav
+Fri Nov 22 08:49:53 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 0 foldere
+Fri Nov 22 08:49:53 2019: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 646 fisiere
+Fri Nov 22 08:49:53 2019: S-a identificat DROP-WHOOPSIE.wav
+Fri Nov 22 08:49:53 2019: S-a identificat EXCELLENT-AMERICAN.wav
+Fri Nov 22 08:49:53 2019: S-a identificat EXCELLENT-ANGRY SCOTS.wav
+Fri Nov 22 08:49:53 2019: S-a identificat EXCELLENT-BRUMMIE.wav
+Fri Nov 22 08:49:53 2019: S-a identificat EXCELLENT-CAD.wav
+Fri Nov 22 08:49:53 2019: S-a identificat EXCELLENT-ENGLISH.wav
+Fri Nov 22 08:49:53 2019: S-a identificat EXCELLENT-FRENCH.wav
+Fri Nov 22 08:49:53 2019: S-a identificat EXCELLENT-GERMAN.wav
+Fri Nov 22 08:49:53 2019: S-a identificat EXCELLENT-HUNGARIAN.wav
+Fri Nov 22 08:49:53 2019: S-a identificat EXCELLENT-ITALIAN.wav
+Fri Nov 22 08:49:54 2019: S-a identificat EXCELLENT-PORTUGUESE.wav
+Fri Nov 22 08:49:54 2019: S-a identificat EXCELLENT-RASTA.wav
+Fri Nov 22 08:49:54 2019: S-a identificat EXCELLENT-SPANISH.wav
+Fri Nov 22 08:49:54 2019: S-a identificat EXCELLENT-THE RAJ.wav
+Fri Nov 22 08:49:54 2019: S-a identificat EXCELLENT-WHOOPSIE.wav
+Fri Nov 22 08:49:54 2019: A aparut eroarea: [Error 2] The system cannot find the file specified: 'C:\\Users\\aion\\Desktop\\Games sounds\\Worms sounds\\de procesat\\DROP-WHOOPSIE.wav'
+Fri Nov 22 08:49:54 2019: S-a mutat fisierul DROP-WHOOPSIE.wav
+Fri Nov 22 08:49:54 2019: A aparut eroarea: [Error 2] The system cannot find the file specified: 'C:\\Users\\aion\\Desktop\\Games sounds\\Worms sounds\\de procesat\\EXCELLENT-AMERICAN.wav'
+Fri Nov 22 08:49:54 2019: S-a mutat fisierul EXCELLENT-AMERICAN.wav
+Fri Nov 22 08:49:54 2019: A aparut eroarea: [Error 2] The system cannot find the file specified: 'C:\\Users\\aion\\Desktop\\Games sounds\\Worms sounds\\de procesat\\EXCELLENT-ANGRY SCOTS.wav'
+Fri Nov 22 08:49:54 2019: S-a mutat fisierul EXCELLENT-ANGRY SCOTS.wav
+Fri Nov 22 08:49:54 2019: A aparut eroarea: [Error 2] The system cannot find the file specified: 'C:\\Users\\aion\\Desktop\\Games sounds\\Worms sounds\\de procesat\\EXCELLENT-BRUMMIE.wav'
+Fri Nov 22 08:49:54 2019: S-a mutat fisierul EXCELLENT-BRUMMIE.wav
+Fri Nov 22 08:49:54 2019: A aparut eroarea: [Error 2] The system cannot find the file specified: 'C:\\Users\\aion\\Desktop\\Games sounds\\Worms sounds\\de procesat\\EXCELLENT-CAD.wav'
+Fri Nov 22 08:49:54 2019: S-a mutat fisierul EXCELLENT-CAD.wav
+Fri Nov 22 08:49:54 2019: S-a mutat fisierul EXCELLENT-ENGLISH.wav
+Fri Nov 22 08:49:54 2019: S-a mutat fisierul EXCELLENT-FRENCH.wav
+Fri Nov 22 08:49:54 2019: S-a mutat fisierul EXCELLENT-GERMAN.wav
+Fri Nov 22 08:49:54 2019: S-a mutat fisierul EXCELLENT-HUNGARIAN.wav
+Fri Nov 22 08:49:54 2019: S-a mutat fisierul EXCELLENT-ITALIAN.wav
+Fri Nov 22 08:49:54 2019: S-a mutat fisierul EXCELLENT-PORTUGUESE.wav
+Fri Nov 22 08:49:54 2019: S-a mutat fisierul EXCELLENT-RASTA.wav
+Fri Nov 22 08:49:54 2019: S-a mutat fisierul EXCELLENT-SPANISH.wav
+Fri Nov 22 08:49:54 2019: S-a mutat fisierul EXCELLENT-THE RAJ.wav
+Fri Nov 22 08:49:54 2019: S-a mutat fisierul EXCELLENT-WHOOPSIE.wav
+Fri Nov 22 08:50:43 2019: S-a dezarhivat FATALITY-CAD.zip
+Fri Nov 22 08:50:43 2019: S-a identificat FATALITY-AMERICAN.wav
+Fri Nov 22 08:50:43 2019: S-a identificat FATALITY-ANGRY SCOTS.wav
+Fri Nov 22 08:50:43 2019: S-a identificat FATALITY-BRUMMIE.wav
+Fri Nov 22 08:50:43 2019: S-a identificat FATALITY-CAD.wav
+Fri Nov 22 08:50:43 2019: S-a identificat FATALITY-ENGLISH.wav
+Fri Nov 22 08:50:43 2019: S-a identificat FATALITY-FRENCH.wav
+Fri Nov 22 08:50:43 2019: S-a identificat FATALITY-GERMAN.wav
+Fri Nov 22 08:50:43 2019: S-a identificat FATALITY-HUNGARIAN.wav
+Fri Nov 22 08:50:43 2019: S-a identificat FATALITY-ITALIAN.wav
+Fri Nov 22 08:50:43 2019: S-a identificat FATALITY-PORTUGUESE.wav
+Fri Nov 22 08:50:43 2019: S-a mutat fisierul FATALITY-AMERICAN.wav
+Fri Nov 22 08:50:43 2019: S-a mutat fisierul FATALITY-ANGRY SCOTS.wav
+Fri Nov 22 08:50:43 2019: S-a mutat fisierul FATALITY-BRUMMIE.wav
+Fri Nov 22 08:50:43 2019: S-a mutat fisierul FATALITY-CAD.wav
+Fri Nov 22 08:50:43 2019: S-a mutat fisierul FATALITY-ENGLISH.wav
+Fri Nov 22 08:50:43 2019: S-a mutat fisierul FATALITY-FRENCH.wav
+Fri Nov 22 08:50:43 2019: S-a mutat fisierul FATALITY-GERMAN.wav
+Fri Nov 22 08:50:43 2019: S-a mutat fisierul FATALITY-HUNGARIAN.wav
+Fri Nov 22 08:50:43 2019: S-a mutat fisierul FATALITY-ITALIAN.wav
+Fri Nov 22 08:50:43 2019: S-a mutat fisierul FATALITY-PORTUGUESE.wav
+Fri Nov 22 08:51:22 2019: S-a dezarhivat FIREBALL-ANGRY SCOTS.zip
+Fri Nov 22 08:51:22 2019: S-a identificat FATALITY-RASTA.wav
+Fri Nov 22 08:51:22 2019: S-a identificat FATALITY-SPANISH.wav
+Fri Nov 22 08:51:22 2019: S-a identificat FATALITY-THE RAJ.wav
+Fri Nov 22 08:51:22 2019: S-a identificat FATALITY-WHOOPSIE.wav
+Fri Nov 22 08:51:22 2019: S-a identificat FIRE-AMERICAN.wav
+Fri Nov 22 08:51:22 2019: S-a identificat FIRE-ANGRY SCOTS.wav
+Fri Nov 22 08:51:22 2019: S-a identificat FIREBALL-AMERICAN.wav
+Fri Nov 22 08:51:22 2019: S-a identificat FIREBALL-ANGRY SCOTS.wav
+Fri Nov 22 08:51:22 2019: S-a identificat FIREBALL-BRUMMIE.wav
+Fri Nov 22 08:51:22 2019: S-a identificat FIREBALL-CAD.wav
+Fri Nov 22 08:51:22 2019: S-a mutat fisierul FATALITY-RASTA.wav
+Fri Nov 22 08:51:22 2019: S-a mutat fisierul FATALITY-SPANISH.wav
+Fri Nov 22 08:51:22 2019: S-a mutat fisierul FATALITY-THE RAJ.wav
+Fri Nov 22 08:51:22 2019: S-a mutat fisierul FATALITY-WHOOPSIE.wav
+Fri Nov 22 08:51:22 2019: S-a mutat fisierul FIRE-AMERICAN.wav
+Fri Nov 22 08:51:22 2019: S-a mutat fisierul FIRE-ANGRY SCOTS.wav
+Fri Nov 22 08:51:22 2019: S-a mutat fisierul FIREBALL-AMERICAN.wav
+Fri Nov 22 08:51:22 2019: S-a mutat fisierul FIREBALL-ANGRY SCOTS.wav
+Fri Nov 22 08:51:22 2019: S-a mutat fisierul FIREBALL-BRUMMIE.wav
+Fri Nov 22 08:51:22 2019: S-a mutat fisierul FIREBALL-CAD.wav
+Fri Nov 22 08:51:51 2019: S-a dezarhivat FIREBALL-GERMAN.zip
+Fri Nov 22 08:51:51 2019: S-a identificat FIREBALL-ENGLISH.wav
+Fri Nov 22 08:51:51 2019: S-a identificat FIREBALL-FRENCH.wav
+Fri Nov 22 08:51:51 2019: S-a identificat FIREBALL-GERMAN.wav
+Fri Nov 22 08:51:51 2019: S-a identificat FIREBALL-HUNGARIAN.wav
+Fri Nov 22 08:51:51 2019: S-a identificat FIREBALL-ITALIAN.wav
+Fri Nov 22 08:51:51 2019: S-a identificat FIREBALL-PORTUGUESE.wav
+Fri Nov 22 08:51:51 2019: S-a identificat FIREBALL-RASTA.wav
+Fri Nov 22 08:51:51 2019: S-a identificat FIREBALL-SPANISH.wav
+Fri Nov 22 08:51:51 2019: S-a identificat FIREBALL-THE RAJ.wav
+Fri Nov 22 08:51:51 2019: S-a identificat FIREBALL-WHOOPSIE.wav
+Fri Nov 22 08:51:51 2019: S-a mutat fisierul FIREBALL-ENGLISH.wav
+Fri Nov 22 08:51:51 2019: S-a mutat fisierul FIREBALL-FRENCH.wav
+Fri Nov 22 08:51:51 2019: S-a mutat fisierul FIREBALL-GERMAN.wav
+Fri Nov 22 08:51:51 2019: S-a mutat fisierul FIREBALL-HUNGARIAN.wav
+Fri Nov 22 08:51:51 2019: S-a mutat fisierul FIREBALL-ITALIAN.wav
+Fri Nov 22 08:51:51 2019: S-a mutat fisierul FIREBALL-PORTUGUESE.wav
+Fri Nov 22 08:51:51 2019: S-a mutat fisierul FIREBALL-RASTA.wav
+Fri Nov 22 08:51:51 2019: S-a mutat fisierul FIREBALL-SPANISH.wav
+Fri Nov 22 08:51:51 2019: S-a mutat fisierul FIREBALL-THE RAJ.wav
+Fri Nov 22 08:51:51 2019: S-a mutat fisierul FIREBALL-WHOOPSIE.wav
+Fri Nov 22 08:52:33 2019: S-a dezarhivat FIRE-FRENCH.zip
+Fri Nov 22 08:52:33 2019: S-a identificat FIRE-BRUMMIE.wav
+Fri Nov 22 08:52:33 2019: S-a identificat FIRE-CAD.wav
+Fri Nov 22 08:52:33 2019: S-a identificat FIRE-ENGLISH.wav
+Fri Nov 22 08:52:33 2019: S-a identificat FIRE-FRENCH.wav
+Fri Nov 22 08:52:33 2019: S-a identificat FIRE-GERMAN.wav
+Fri Nov 22 08:52:33 2019: S-a identificat FIRE-HUNGARIAN.wav
+Fri Nov 22 08:52:33 2019: S-a identificat FIRE-ITALIAN.wav
+Fri Nov 22 08:52:33 2019: S-a identificat FIRE-PORTUGUESE.wav
+Fri Nov 22 08:52:33 2019: S-a identificat FIRE-RASTA.wav
+Fri Nov 22 08:52:33 2019: S-a identificat FIRE-SPANISH.wav
+Fri Nov 22 08:52:33 2019: S-a mutat fisierul FIRE-BRUMMIE.wav
+Fri Nov 22 08:52:33 2019: S-a mutat fisierul FIRE-CAD.wav
+Fri Nov 22 08:52:33 2019: S-a mutat fisierul FIRE-ENGLISH.wav
+Fri Nov 22 08:52:33 2019: S-a mutat fisierul FIRE-FRENCH.wav
+Fri Nov 22 08:52:33 2019: S-a mutat fisierul FIRE-GERMAN.wav
+Fri Nov 22 08:52:33 2019: S-a mutat fisierul FIRE-HUNGARIAN.wav
+Fri Nov 22 08:52:33 2019: S-a mutat fisierul FIRE-ITALIAN.wav
+Fri Nov 22 08:52:33 2019: S-a mutat fisierul FIRE-PORTUGUESE.wav
+Fri Nov 22 08:52:33 2019: S-a mutat fisierul FIRE-RASTA.wav
+Fri Nov 22 08:52:33 2019: S-a mutat fisierul FIRE-SPANISH.wav
+Fri Nov 22 08:54:03 2019: A aparut eroarea: File is not a zip file
+Fri Nov 22 08:54:03 2019: A aparut eroarea: File is not a zip file
+Fri Nov 22 08:54:03 2019: A aparut eroarea: File is not a zip file
+Fri Nov 22 08:54:03 2019: A aparut eroarea: File is not a zip file
+Fri Nov 22 08:54:03 2019: A aparut eroarea: File is not a zip file
+Fri Nov 22 08:54:03 2019: A aparut eroarea: File is not a zip file
+Fri Nov 22 08:54:03 2019: A aparut eroarea: File is not a zip file
+Fri Nov 22 08:54:03 2019: A aparut eroarea: File is not a zip file
+Fri Nov 22 08:54:03 2019: A aparut eroarea: File is not a zip file
+Fri Nov 22 08:54:03 2019: A aparut eroarea: File is not a zip file
+Fri Nov 22 08:54:03 2019: A aparut eroarea: File is not a zip file
+Fri Nov 22 08:54:03 2019: A aparut eroarea: File is not a zip file
+Fri Nov 22 08:54:03 2019: A aparut eroarea: File is not a zip file
+Fri Nov 22 08:54:03 2019: A aparut eroarea: File is not a zip file
+Fri Nov 22 08:54:03 2019: S-a dezarhivat FIRSTBLOOD-AMERICAN.zip
+Fri Nov 22 08:54:03 2019: S-a identificat FIRE-THE RAJ.wav
+Fri Nov 22 08:54:03 2019: S-a identificat FIRE-WHOOPSIE.wav
+Fri Nov 22 08:54:03 2019: S-a identificat FIRSTBLOOD-AMERICAN.wav
+Fri Nov 22 08:54:03 2019: S-a identificat FIRSTBLOOD-ANGRY SCOTS.wav
+Fri Nov 22 08:54:03 2019: S-a identificat FIRSTBLOOD-BRUMMIE.wav
+Fri Nov 22 08:54:03 2019: S-a identificat FIRSTBLOOD-CAD.wav
+Fri Nov 22 08:54:03 2019: S-a identificat FIRSTBLOOD-ENGLISH.wav
+Fri Nov 22 08:54:03 2019: S-a identificat FIRSTBLOOD-FRENCH.wav
+Fri Nov 22 08:54:03 2019: S-a identificat FIRSTBLOOD-GERMAN.wav
+Fri Nov 22 08:54:03 2019: S-a identificat FIRSTBLOOD-HUNGARIAN.wav
+Fri Nov 22 08:54:03 2019: S-a mutat fisierul FIRE-THE RAJ.wav
+Fri Nov 22 08:54:03 2019: S-a mutat fisierul FIRE-WHOOPSIE.wav
+Fri Nov 22 08:54:03 2019: S-a mutat fisierul FIRSTBLOOD-AMERICAN.wav
+Fri Nov 22 08:54:03 2019: S-a mutat fisierul FIRSTBLOOD-ANGRY SCOTS.wav
+Fri Nov 22 08:54:03 2019: S-a mutat fisierul FIRSTBLOOD-BRUMMIE.wav
+Fri Nov 22 08:54:03 2019: S-a mutat fisierul FIRSTBLOOD-CAD.wav
+Fri Nov 22 08:54:03 2019: S-a mutat fisierul FIRSTBLOOD-ENGLISH.wav
+Fri Nov 22 08:54:03 2019: S-a mutat fisierul FIRSTBLOOD-FRENCH.wav
+Fri Nov 22 08:54:03 2019: S-a mutat fisierul FIRSTBLOOD-GERMAN.wav
+Fri Nov 22 08:54:03 2019: S-a mutat fisierul FIRSTBLOOD-HUNGARIAN.wav
+Fri Nov 22 08:54:38 2019: S-a dezarhivat FIRSTBLOOD-SPANISH.zip
+Fri Nov 22 08:54:38 2019: S-a identificat FIRSTBLOOD-ITALIAN.wav
+Fri Nov 22 08:54:38 2019: S-a identificat FIRSTBLOOD-PORTUGUESE.wav
+Fri Nov 22 08:54:38 2019: S-a identificat FIRSTBLOOD-RASTA.wav
+Fri Nov 22 08:54:38 2019: S-a identificat FIRSTBLOOD-SPANISH.wav
+Fri Nov 22 08:54:38 2019: S-a identificat FIRSTBLOOD-THE RAJ.wav
+Fri Nov 22 08:54:38 2019: S-a identificat FIRSTBLOOD-WHOOPSIE.wav
+Fri Nov 22 08:54:38 2019: S-a identificat FLAWLESS-AMERICAN.wav
+Fri Nov 22 08:54:38 2019: S-a identificat FLAWLESS-ANGRY SCOTS.wav
+Fri Nov 22 08:54:38 2019: S-a identificat FLAWLESS-BRUMMIE.wav
+Fri Nov 22 08:54:38 2019: S-a identificat FLAWLESS-CAD.wav
+Fri Nov 22 08:54:38 2019: S-a mutat fisierul FIRSTBLOOD-ITALIAN.wav
+Fri Nov 22 08:54:38 2019: S-a mutat fisierul FIRSTBLOOD-PORTUGUESE.wav
+Fri Nov 22 08:54:38 2019: S-a mutat fisierul FIRSTBLOOD-RASTA.wav
+Fri Nov 22 08:54:38 2019: S-a mutat fisierul FIRSTBLOOD-SPANISH.wav
+Fri Nov 22 08:54:38 2019: S-a mutat fisierul FIRSTBLOOD-THE RAJ.wav
+Fri Nov 22 08:54:38 2019: S-a mutat fisierul FIRSTBLOOD-WHOOPSIE.wav
+Fri Nov 22 08:54:38 2019: S-a mutat fisierul FLAWLESS-AMERICAN.wav
+Fri Nov 22 08:54:38 2019: S-a mutat fisierul FLAWLESS-ANGRY SCOTS.wav
+Fri Nov 22 08:54:38 2019: S-a mutat fisierul FLAWLESS-BRUMMIE.wav
+Fri Nov 22 08:54:38 2019: S-a mutat fisierul FLAWLESS-CAD.wav
+Sat Jun  6 09:36:17 2020: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 0 foldere
+Sat Jun  6 09:36:17 2020: Din C:\Users\aion\Desktop\Games sounds\Worms sounds\de procesat s-au importat 0 fisiere
+Sat Jun  6 09:36:17 2020: S-a dezarhivat cod.zip
