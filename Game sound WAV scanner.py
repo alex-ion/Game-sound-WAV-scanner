@@ -44,17 +44,17 @@ def Import(cale):
     scriere_log(str(time.ctime())+": Din "+str(cale)+" s-au importat "+str(Files.files_total)+" fisiere")
 
 
-Import ("C:\\Users\\aion\\Desktop\\Games sounds\\Worms sounds\\de procesat")
+Import ("Desktop\\Games sounds\\Worms sounds\\de procesat")
 
 while True:
-    for (path,folders,files) in os.walk("C:\\Users\\aion\\Downloads"):
+    for (path,folders,files) in os.walk("Downloads"):
         for file in files:
             if file[len(file)-4:len(file)] == ".zip":
                 try:
-                    arhiva = zipfile.ZipFile(os.path.join("C:\\Users\\aion\\Downloads",file))
-                    arhiva.extractall("C:\\Users\\aion\\Downloads")
+                    arhiva = zipfile.ZipFile(os.path.join("Downloads",file))
+                    arhiva.extractall("Downloads")
                     arhiva.close()
-                    os.remove(os.path.join("C:\\Users\\aion\\Downloads",file))
+                    os.remove(os.path.join("Downloads",file))
                     scriere_log(str(time.ctime())+": S-a dezarhivat "+ str(file))
                 except Exception as Error:
                     scriere_log(str(time.ctime())+": A aparut eroarea: "+str(Error))
@@ -63,11 +63,11 @@ while True:
                 working_list.append(file)
     for element in working_list:
         try:
-            shutil.move(os.path.join("C:\\Users\\aion\\Downloads",element),os.path.join("C:\\Users\\aion\\Desktop\\Games sounds\\Worms sounds\\Procesate",element))
+            shutil.move(os.path.join("Downloads",element),os.path.join("Desktop\\Games sounds\\Worms sounds\\Procesate",element))
         except Exception as Error:
             print (str(time.ctime())+": A aparut eroarea: "+str(Error))            
         try:
-            os.remove(os.path.join("C:\\Users\\aion\\Desktop\\Games sounds\\Worms sounds\\de procesat",element))
+            os.remove(os.path.join("Desktop\\Games sounds\\Worms sounds\\de procesat",element))
         except Exception as Error:
             print (str(time.ctime())+": A aparut eroarea: "+str(Error))
         scriere_log (str(time.ctime())+ ": S-a mutat fisierul "+element)
